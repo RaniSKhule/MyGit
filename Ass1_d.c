@@ -9,7 +9,7 @@ void quick_Sort(int*,int,int);
 int main()
 {
 	int arr[50],n,i;
-	printf("\nEnter number of elements:- ");
+	printf("\nEnter number of elements for sorting:- ");
 	scanf("%d",&n);
 	printf("\nEnter elements:- ");
 	for(i=0;i<n;i++)
